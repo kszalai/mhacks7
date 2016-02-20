@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">DDop</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
     <string name="startup_screen">aayyy lmao</string>
     <string name="button_1">Tap Me!</string>
+    <string name="mainFrag_testString">Fragment 1</string>
+    <string name="secondFrag_testString">Fragment 2</string>
+    <string name="thirdFrag_testString">Fragment 3</string>
+    <string name="fourthFrag_testString">Fragment 4</string>
 </resources>
